@@ -8,7 +8,7 @@ import google.generativeai as genai
 # ---------------------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------------------
-GEMINI_MODEL  = "gemini-2.5-pro"
+GEMINI_MODEL  = "gemini-1.5-pro"
 MCP_BALANCE   = "http://localhost:8001/balance"   # stub endpoint
 LOGO_PATH     = "static/allison_logo.png"         # drop your PNG here
 ALLY_BLUE     = "#0041ff"                         # branding accent
