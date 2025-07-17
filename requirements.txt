@@ -1,7 +1,7 @@
 # requirements.txt
 protobuf==5.27.0           # shared dependency for everyone
 
-streamlit==1.41.0          # plays fine with protobuf 5.x
+streamlit==1.47.0          # plays fine with protobuf 5.x
 mcp-agent==0.0.21          # pulls OT-exporter 1.29.x (needs protobuf >=5)
 
 opentelemetry-proto==1.29.0   # match exporter/tooling version
